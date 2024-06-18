@@ -12,7 +12,6 @@ set matchpairs+=<:>
 set background=dark
 set encoding=utf-8
 set softtabstop=2
-set textwidth=79
 set laststatus=2
 set nocompatible
 set noshiftround
